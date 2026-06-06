@@ -138,7 +138,7 @@ Tipo: t2.micro
 Comando utilizado:
 
 ```bash
-ssh -i lab-irede-key-pair.pem ec2-user@IP_PUBLICO
+ssh -i lab-irede-key-pair.pem ec2-user@18.218.33.61
 ```
 
 Conexão realizada com sucesso.
@@ -163,7 +163,6 @@ Durante este laboratório foi possível compreender:
 
 Charbel Daher
 
-Curso: Computação em Nuvem
-
-Programa: Capacita iRede TIC 20
+- Capacita iRede TIC 20 – Provimento de Serviços Computacionais
+- AWS Cloud Computing
 
